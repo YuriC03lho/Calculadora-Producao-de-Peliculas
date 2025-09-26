@@ -1,4 +1,4 @@
-# 🎬 Calculadora de Produção de Películas 🇧🇷🇺🇸
+# 🎬 Calculadora de Produção de Películas 
 
 Uma ferramenta simples para **calcular a quantidade de cortes necessários** para produção de películas, ajudando a otimizar processos de produção e planejamento.  
 Projeto criado **nas horas vagas do trabalho**, feito inteiramente no [VSCode.dev](https://vscode.dev/) (VSCode online, sem suporte a plugins), e hospedado no Vercel para fácil visualização por recrutadores.
