@@ -21,7 +21,7 @@ O projeto é escrito em **HTML, CSS e JavaScript**, podendo ser executado direta
 
 Você pode **acessar o projeto online** sem precisar baixar nada:  
 
-🌐 [Visualizar no Site](https://calculadora-producao-de-peliculas-a1mk60mgy.vercel.app)
+🌐 [Visualizar no Vercel | Website](https://calculadora-producao-de-peliculas-a1mk60mgy.vercel.app)
 
 Basta abrir o link e testar a calculadora diretamente no navegador. Ideal para recrutadores e avaliação rápida do projeto.
 
